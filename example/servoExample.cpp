@@ -32,8 +32,9 @@ SOFTWARE.
 
 // Calibrated for a Robot Geek RGS-13 Servo
 // Make sure these are appropriate for the servo being used!
-# int servoMin = 120 ;
-# int servoMax = 720 ;
+
+// int servoMin = 120 ;
+// int servoMax = 720 ;
 
 int getkey() {
     int character;
